@@ -18,7 +18,8 @@ pyinstaller --onefile rickroll.py
 
 * ใส่ '--onefile' เพื่อทำการสร้าง exe เป็นไฟล์เดียว
 
-คลิปสอนทำ : 
+คลิปสอนทำ : https://youtu.be/RuPSzGjE9N0
+
 ไฟล์ exe : https://drive.google.com/file/d/1VXhxHIWvxaqkEcb-mjXCWRlfesitaQkV/view?usp=sharing
 
 อย่าลืมกดซับยูทูปผมด้วย !!!
