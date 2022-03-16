@@ -1,4 +1,4 @@
-# Rickroll2lines
+# Rickroll1line
 
 A python script that will rickroll you
 
