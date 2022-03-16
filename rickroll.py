@@ -1,2 +1,1 @@
-import webbrowser as wb
-wb.open('https://www.youtube.com/watch?v=dQw4w9WgXcQ')
+__import__("webbrowser").open('https://youtu.be/watch?v=dQw4w9WgXcQ')
