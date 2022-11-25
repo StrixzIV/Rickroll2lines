@@ -1,2 +1,1 @@
-import webbrowser as wb
-wb.open('https://www.youtube.com/watch?v=dQw4w9WgXcQ')
+import webbrowser;webbrowser.open('https://bitly.com/98K8eH')
